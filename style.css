@@ -1,0 +1,152 @@
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('fonts/Poppins-Medium.eot');
+    src: url('fonts/Poppins-Medium.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Poppins-Medium.woff2') format('woff2'),
+        url('fonts/Poppins-Medium.woff') format('woff'),
+        url('fonts/Poppins-Medium.ttf') format('truetype'),
+        url('fonts/Poppins-Medium.svg#Poppins-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+body{
+    margin: 0px;
+}
+
+/********************************
+*           NAVBAR              *
+*********************************/
+.colorpic{
+     background-color: #3b5998;
+}
+
+.fonttype{
+    font-size: 35px;
+    font-family: 'Poppins','Arial Narrow',Arial,sans-serif;
+    font-weight: normal;
+    margin-left: 140px;
+}
+
+.colortext{
+    color: white;
+}
+
+.tailletext{
+    font-size: 13px;
+    font-weight: normal;
+    text-decoration: none;
+}
+
+.haut{
+    height: 20px;
+}
+
+.haute{
+    height: 10%;
+}
+
+.large{
+    width: 26%;
+    border-color: #29487d;
+}
+
+.btntn{
+    padding: 2px;
+    margin-top: 4%;
+    background-color: #4267b2;
+    border-color: #29487d;
+    margin-left: 2px;
+}
+
+.space{
+    width: 100%;
+    display: flex;
+    flex-grow: 8;
+    justify-content: space-between;
+}
+
+.infotext{
+    color: #8ca4cd;
+}
+
+/********************************
+*           HEADER              *
+*********************************/
+.colordeg{
+    background-image: linear-gradient(#fcfcfd, #e6e9f2);
+}
+
+.formmarg{
+    margin-top: 10px;
+}
+
+.genr{
+    margin-bottom: 0px;
+    margin-top: 8px;
+}
+
+.colorp {
+    color: #2c395e;
+}
+
+.para{
+    font-size: 10px;
+    width: 64%;
+}
+
+.spacecol0{
+    margin-top: 40px;
+}
+
+.tailleinscri{
+    font-size: 35px;
+    font-family: 'Poppins','Arial Narrow',Arial,sans-serif;
+}
+
+.spacecol{
+    margin-top: 20px;
+    margin-right: 54px;
+}
+
+.margse{
+    margin-left: 17px;
+}
+
+
+.checktaille{
+    font-size: 20px;
+}
+
+.margbot{
+    margin-bottom: 3px;
+}
+
+.pagetail{
+    font-size: 12px;
+    margin-top: 16px;
+}
+
+.avantfoot{
+    font-size: 14px;
+    margin-left: 220px;
+    margin-right: 220px;
+    white-space: normal;
+}
+
+.avantff{
+    margin-right: 63px;
+    font-size: 12px;
+    color: #5b74c6;
+}
+
+/* *****************************
+*           FOOTER             *
+********************************/
+
+footer{
+    font-size: 10px;
+    margin-left: 215px;
+    margin-top: 20px;
+}
